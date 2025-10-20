@@ -1,0 +1,20 @@
+.option1-title {
+  color: #333;
+  background-color: #f8f9fa;
+  border: 1px solid #e9ecef;
+  padding: 10px;
+	font-weight: 700;
+	font-size: 15px;
+}
+
+.option1-json-display {
+  background-color: #f8f9fa;
+  padding: 20px;
+  text-align: left;
+  overflow: auto;
+  font-size: 12px;
+  line-height: 1.4;
+  border: 1px solid #e9ecef;
+	border-top: none;
+	margin: 0;
+}

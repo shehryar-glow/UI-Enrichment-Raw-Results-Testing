@@ -1,0 +1,17 @@
+.option3-title {
+  color: #333;
+  background-color: #f8f9fa;
+  border: 1px solid #e9ecef;
+  padding: 10px;
+  font-weight: 700;
+  font-size: 15px;
+}
+
+.option3-tree-container {
+  padding: 20px;
+  text-align: left;
+  overflow: auto;
+  border: 1px solid #e9ecef;
+  border-top: none;
+  margin: 0;
+}
